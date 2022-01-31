@@ -1,0 +1,10 @@
+hra Dama
+Hrá sa na šachovnici 8x8.
+Súperi majú na začiatku po osem figúrok pešiakov stojacich na protiľahlých stranách v prvých dvoch radoch na čiernych políčkach.
+Všetky figúry sa pohybujú po diagonálach, nemôžu preskakovať figúrky vlastnej farby.
+Pešiaci sa pohybujú iba dopredu. Ak neberú súperovu figúru, pohybujú sa po jednom políčku. Ak berú súperovu figúru, preskočia ju a tak ju zoberú, ak môžu preskočiť aj ďalšiu súperovi figúrku, môžu preskočiť a zobrať aj tú.
+Keď pešiak dôjde na druhú stranu šachovnice, zmení sa na dámu.
+Dáma sa pohybuje dopredu aj dozadu o ľubovoľný počet polí.
+Ak v danom ťahu hráč môže vyhodiť súperovu figúrku, ale žiadnu nevyhodí, súper mu za trest môže figúrku, ktorá mohla brať pred uskutočnením vlastného ťahu, vziať. Ak figúrka, ktorou ťahal, mohla vziať ešte ďalšiu figúrku, súper mu ju môže pred vlastným ťahom vziať.
+Dáma má prednosť. Ak hráč môže vziať súperovi figúrku (figúrky) pešiakom aj dámou a vezme pešiakom, protihráč mu pred uskutočnením vlastného ťahu môže dámu, ktorá mohla brať, zobrať.
+Vyhráva hráč, ktorý zoberie súperovi všetky figúrky. Partia končí remízou: a) ak hráč, ktorý je na ťahu, nemôže uskutočniť ťah; b) ak už teoreticky nemožno pri pozornej hre súperovi vziať žiadnu figúrku.
